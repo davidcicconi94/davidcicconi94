@@ -47,10 +47,5 @@ Lenguages and tools: HTML, TailwindCSS, Javascript, React-Typescript, Redux-Tool
 
 *********************************************************************
 
-### Contact me 📫
-
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/david-cicconi-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/david-cicconi-dev/" height="30" width="40" /></a>
-</p>
 
 
