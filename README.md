@@ -4,7 +4,7 @@
  
 ### About Me 📝
 
-#### Recently graduated from **Henry**. I was part of Henry's staff as Teaching assistant, coordinating and leading groups of students who had to repeat a module, helping them with technical skills.
+#### Graduated from **Henry** in 2022. I was part of Henry's staff as Teaching assistant, coordinating and leading groups of students who had to repeat a module, helping them with technical skills.
 
 ```js
 const davidCicconi = {
