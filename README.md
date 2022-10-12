@@ -47,5 +47,9 @@ Lenguages and tools: HTML, TailwindCSS, Javascript, React-Typescript, Redux-Tool
 
 *********************************************************************
 
+### Contact :mailbox_with_mail:
+
+Mail to: <david.cicconi94@gmail.com>
+
 
 
