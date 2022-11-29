@@ -26,6 +26,27 @@ const davidCicconi = {
 
 ### Projects ⚡
 
+
+#### Star Wars 
+
+Demo: https://challenge-frontend-ashy.vercel.app/
+
+Description: Challenge frontend
+
+Lenguages and tools: React, Typescript, Redux-Toolkit, TailwindCSS.
+
+
+#### Fit-Focus App (groupal)
+
+Demo: https://pf-app-five.vercel.app/home
+
+Description: Final Project from Henry
+
+Lenguages and tools: HTML, TailwindCSS, Javascript, React-Typescript, Redux-Toolkit, Node, Express, MongoDB, Mongoose
+
+
+*********************************************************************
+
 #### Videogames App 
 
 Demo: https://videogamesapp-kappa.vercel.app/
@@ -36,16 +57,7 @@ Lenguages and tools: HTML, CSS, Javascript, React, Redux, Node, Express, GraphQL
 
 
 
-#### Fit-Focus App 
 
-Demo: https://pf-app-five.vercel.app/home
-
-Description: Final Project from Henry
-
-Lenguages and tools: HTML, TailwindCSS, Javascript, React-Typescript, Redux-Toolkit, Node, Express, MongoDB, Mongoose
-
-
-*********************************************************************
 
 ### Contact :mailbox_with_mail:
 
