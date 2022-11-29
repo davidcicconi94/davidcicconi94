@@ -35,6 +35,8 @@ Description: Challenge frontend
 
 Lenguages and tools: React, Typescript, Redux-Toolkit, TailwindCSS.
 
+*********************************************************************
+
 
 #### Fit-Focus App (groupal)
 
