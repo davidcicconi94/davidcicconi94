@@ -11,7 +11,7 @@ const davidCicconi = {
   pronouns : "he" | "him",
   code: [ "HTML", "CSS", "Javascript", "Typescript"],
   tools: { 
-    frontend: ["React", "Redux", "Toolkit", "Angular", "TailwindCSS"], 
+    frontend: ["React", "Redux", "Toolkit", "NextJS", "Angular", "TailwindCSS" , "Chakra-UI"], 
     backend: ["Node", "Express"]
   },
   db: {
@@ -25,6 +25,16 @@ const davidCicconi = {
 *********************************************************************
 
 ### Projects ⚡
+
+#### Henry Ask
+
+Demo: https://henry-ask.vercel.app/
+
+Description: Hackathon 2022
+
+Lenguages and tools: Javascript, Css, React, Toolkit, Chakra-UI, Express, MongoDB, Firebase.
+
+*********************************************************************
 
 
 #### Star Wars 
