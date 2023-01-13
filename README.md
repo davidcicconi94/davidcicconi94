@@ -26,6 +26,16 @@ const davidCicconi = {
 
 ### Projects ⚡
 
+#### PORTFOLIO
+
+Demo: https://portfolio-davidcicconi.vercel.app/
+
+Description: My personal portfolio
+
+Lenguages and tools: React, Typescript, TailwindCSS.
+
+*********************************************************************
+
 #### Henry Ask
 
 Demo: https://henry-ask.vercel.app/
