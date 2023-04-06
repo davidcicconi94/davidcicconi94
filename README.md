@@ -11,14 +11,14 @@ const davidCicconi = {
   pronouns : "he" | "him",
   code: [ "HTML", "CSS", "Javascript", "Typescript"],
   tools: { 
-    frontend: ["React", "Redux", "Toolkit", "NextJS", "Angular", "TailwindCSS" , "Chakra-UI"], 
+    frontend: ["React", "Redux", "Toolkit", "Angular", "TailwindCSS" , "Chakra-UI"], 
     backend: ["Node", "Express"]
   },
   db: {
-    sql: ["GraphQL" , "MySQL"],
+    sql: ["PostgreSQL" , "MySQL"],
     noSql: ["MongoDB"],
   },
-  orm: ["Sequelize"]
+  orm: ["Sequelize, Typeorm"]
 }
 ```
 
@@ -43,6 +43,16 @@ Demo: https://henry-ask.vercel.app/
 Description: Hackathon 2022
 
 Lenguages and tools: Javascript, Css, React, Toolkit, Chakra-UI, Express, MongoDB, Firebase.
+
+*********************************************************************
+
+#### Paises App
+
+Demo: https://henry-ask.vercel.app/
+
+Description: Personal Project
+
+Lenguages and tools: Angular, CSS
 
 *********************************************************************
 
