@@ -36,6 +36,18 @@ Lenguages and tools: React, Typescript, TailwindCSS.
 
 *********************************************************************
 
+
+#### CMC- Citas médicas (No Country - groupal)
+
+Demo: https://c10-32-m-mern.vercel.app/
+
+Description: Work simulator
+
+Lenguages and tools: NodeJS, ExpressJS, Typescript, PostgreSQL, Sequelize.
+
+*********************************************************************
+
+
 #### Henry Ask
 
 Demo: https://henry-ask.vercel.app/
